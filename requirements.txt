@@ -1,8 +1,8 @@
 streamlit
 pandas
+requests
 langchain
 langchain-openai
 langchain-experimental
 langgraph
 plotly
-requests
