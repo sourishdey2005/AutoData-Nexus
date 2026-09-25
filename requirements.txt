@@ -1,0 +1,8 @@
+streamlit
+pandas
+langchain
+langchain-openai
+langchain-experimental
+langgraph
+plotly
+requests
